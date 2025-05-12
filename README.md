@@ -1,2 +1,2 @@
-# logo-design
+# next gen logo-design
 Unique logo design
